@@ -1,0 +1,33 @@
+<project>
+  <groupId>org.catapult.sa</groupId>
+  <artifactId>Mirror-Github</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <packaging>zip</packaging>
+  
+  <name>Mirror-Github</name>
+  <description>Mirror a job from Github with Jenkins</description>
+  <organization>
+    <name>Satellite Applications Catapult</name>
+  </organization>
+  
+  <developers>
+    <developer>
+      <id>Cameron.Shiell</id>
+      <name>Cameron Shiell</name>
+      <email>Cameron.Shiell@sa-catapult.co.uk</email>
+      <organization>Satellite Applications Catapult</organization>
+      <roles>
+        <role>developer</role>
+      </roles>
+      <timezone>0</timezone>
+    </developer>
+  </developers>
+  
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    
+    <build.manifest.section />
+    <build.tag>UNKNOWN</build.tag>
+    <build.revision>UNKNOWN</build.revision>
+  </properties>
+</project>
